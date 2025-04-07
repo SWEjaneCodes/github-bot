@@ -1,0 +1,11 @@
+# Core requirements
+PyGithub==2.2.0
+python-dotenv==1.0.1
+
+# Webhook security
+cryptography==42.0.5
+pyjwt==2.8.0
+
+# Development tools
+watchdog==3.0.0
+ngrok==0.5.0
